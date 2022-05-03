@@ -1,0 +1,1 @@
+Kapitlet om datatyper, sektionen om strängkonkatenering.

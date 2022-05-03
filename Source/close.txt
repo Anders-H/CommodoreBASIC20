@@ -1,0 +1,1 @@
+Kodexempel för kommandot CLOSE i kapitlet om kommandon. Detta exempel kräver en tom formaterad diskett i enhet 8.
