@@ -16,7 +16,7 @@
 160 xx=159+4*x:yy=99+3*y
 170 rem rita pixel
 180 row=int(yy/8):ch=int(xx/8)
-190 line=yy and 7:bit=7-(xx and 7)a
+190 line=yy and 7:bit=7-(xx and 7)
 200 byte=8192+row*320+ch*8+line
 210 poke byte,peek(byte) or 2^bit
 220 next
